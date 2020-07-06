@@ -68,6 +68,7 @@ Example:
       "provider": "bitcoind",
       "network": "testnet",
       "client_class": "BitcoindClient",
+      "provider_coin_id": "",
       "url": "http://user:password@server_url:18332",
       "api_key": "",
       "priority": 11,
